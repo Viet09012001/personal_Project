@@ -1,0 +1,30 @@
+
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:20%;
+    position:relative;
+    height:0;
+}
+
+.map-responsive iframe{
+    left:0;
+    top:0;
+    position:absolute;
+}
+
+.imageSize{
+    width: 5rem;
+    height: 5rem;
+}
+.imageBg{
+    background-image:url("../media/img/tropical-green-leaves-background.jpg");
+    height: 30rem;
+    color: #040F2A;
+}
+.resize{
+    margin-top: 11rem;
+    font-size: 5rem;
+}
+.slideSize{
+    height: 40rem
+}
